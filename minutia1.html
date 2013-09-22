@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<h1>Period 1 Minutia</h1>
+<div class=col-md-8>
+  {% for post in site.posts %}
+ 
+
+ {% if post.url contains 'pd1' %}
+  <h3><a href="{{ post.url }}">
+      {{ post.title }}
+    </a></h3> 
+      {{ post.content }}
+  {% endif %}
+
+  {% endfor %}
+
+</div>
+<div class=col=md-2>
+<h3>Old Posts</h3>
+<ul>
+  {% for post in site.posts %}
+ {% if post.url contains 'pd1' %}
+  <li><a href="{{ post.url }}">
+      {{ post.title }}
+    </a></li> 
+  {% endif %}
+
+  {% endfor %}
+</ul>
+</div>
