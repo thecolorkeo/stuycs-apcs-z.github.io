@@ -2,6 +2,22 @@
 layout: default
 ---
 <h1>Assignments</h1>
+
+<div class=row>
+<div class=col-md-10>
+
+<ul>
+<li>git pull the homework repository to make sure it's up to date.</li>
+<li>Add your homework file or folder in your personal homework folder.</li>
+<li>git add the file, then git commit, then git push</li>
+<li>Each homework should be named <b>#-whateveryouwant</b> where # is the assignment number. So, if homework 4 was about loops, you might name it 4-loops</li>
+<li>If the assignment requires a file, just add a file using the above naming convension.</li> 
+<li>If it requires a number of files (or you just prefer to use a folder), make a folder using the above naming convension and add files into that folder (don't forget to git add each one). In this case, you can name the files anything you want.</li>
+</ul>
+</div>
+</div>
+
+<div class=row>
 <div class=col-md-8>
   {% for post in site.posts %}
  
@@ -28,4 +44,5 @@ layout: default
 
   {% endfor %}
 </ul>
+</div>
 </div>
