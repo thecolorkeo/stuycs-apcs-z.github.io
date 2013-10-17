@@ -8,6 +8,7 @@ We'll only be going over these in class if you have questions so if you do, make
 
  1. Write a method **public String diag(int n)** which will return a diagonal string of stars that will appear to be a diagonal line when printed. For example, diag(4) would return:
 
+
  > *  
  >  *  
  >   *  
