@@ -11,7 +11,7 @@ Now, go over to the essays page.
 Read:
 
  * [http://paulgraham.com/hs.html](http://paulgraham.com/hs.html)
- * [http://paulgraham.com/popular.html]([http://paulgraham.com/popular.html)
+ * [http://paulgraham.com/popular.html](http://paulgraham.com/popular.html)
  * [http://paulgraham.com/charisma.html](http://paulgraham.com/charisma.html)
 
 
