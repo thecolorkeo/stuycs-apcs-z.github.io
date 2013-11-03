@@ -1,6 +1,6 @@
 ---
 layout: hw
-title: Homework 16 - Stuyablo 2 part 3 
+title: Homework 16b - Stuyablo rules
 published: true
 ---
 
