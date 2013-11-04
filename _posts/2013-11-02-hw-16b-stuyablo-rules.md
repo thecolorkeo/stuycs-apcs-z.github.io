@@ -21,8 +21,12 @@ six sided dice.
 
 For distance weapons, the in the real game you subtracted 1 from your dexterity for the purposes of the roll per grid space travelled. You would make the adjustment based on the distance between the two characters.
 
-Damage is based on the weapon you use and the weapons you can use are based on strength,
-k.
+Damage is based on the weapon you use and the weapons you can use are based on strength.
+
+**NEW INFO**
+
+Health should start at the same value as strength and work down to 0.
+
 
 See the link above for more details and how to deal with experience and leveling up.
 
