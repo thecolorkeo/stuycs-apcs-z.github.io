@@ -8,7 +8,7 @@ Grab the WordSearch starter code from the classcode repository on GitHub.
 
 For tonight, write:
 
-```
+````
 /*
 Precondition: row, col represent the location to try to place the
 	          first character of word
@@ -23,4 +23,6 @@ Postcondition: If the word can be legally placed in the puzzle, modify
 */
 public void addWordH(int row, int col, String word) {
 }
-```
+````
+
+
