@@ -20,7 +20,7 @@ For tonight, write:
     			   Otherwise, return false
     	          
     */
-    public void addWordH(int row, int col, String word) {
+    public boolean addWordH(int row, int col, String word) {
       // to be completed by you.
     }
     
