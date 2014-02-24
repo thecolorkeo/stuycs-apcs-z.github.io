@@ -1,7 +1,22 @@
 ---
+published: true
 layout: hw
-title: Homework 1 - Setting up git
+title: Homework 1 and 2 - Setting up git, Knights Tour and GridWorld
 ---
 
-Due 9/24.
+
+ 1. Set up ssh keys on GitHub for you machine at home and for the machines in 307 (following the directions outlined in class).
+ 2. Clone the hw repository
+ 3. Make 2 folders under your individual homework folder:
+  1. 1-knights (or 1-queens or 1-knights-queens)
+  2. 2-GridWorld
+ 4. Copy over your .java files for the two assignments into the appropriate folders
+ 5. git add eachfile.java 
+ 6. git commit -a 
+ 7. git push
+
+
+  
+
+
 
